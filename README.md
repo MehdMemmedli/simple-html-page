@@ -1,1 +1,1 @@
-# simple-html-page
+THIS IS ABOUT A SIMPLE PAGE
